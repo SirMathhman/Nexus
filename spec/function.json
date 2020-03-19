@@ -1,0 +1,22 @@
+{
+  "action": "define",
+  "name": "main",
+  "type": {
+    "value": "function",
+    "return": "int",
+    "parameters": {
+      "args": {
+        "type": {
+          "value": "array",
+          "subtype": {
+            "value": "string"
+          }
+        }
+      }
+    }
+  },
+  "value": {
+    "action": "return",
+    "value": "0"
+  }
+}
