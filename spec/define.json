@@ -1,0 +1,6 @@
+{
+  "action": "define",
+  "name": "x",
+  "type": "int",
+  "value": "5"
+}
